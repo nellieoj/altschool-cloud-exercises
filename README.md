@@ -49,7 +49,7 @@ wget https://example.com/file.zip
 **Screenshot**
 ![Wget command image](screenshots/Wget-command.png)
 
-##6. echo
+## 6. echo
 **Description**: Prints text or variables to the terminal.
 **Usage Example**
 echo "Hello, World!"
@@ -57,7 +57,7 @@ echo "Hello, World!"
 **Screenshot**
 ![echo command image](screenshots/echo-command.png)
 
-##7. hostname
+## 7. hostname
 **Description**: Shows the system’s hostname.
 **Usage Example**
 hostname
@@ -65,7 +65,7 @@ hostname
 **Screenshot**
 ![hostname command image](screenshots/hostname-command.png)
 
-##8. uname
+## 8. uname
 **Description**:Shows system information.
 **Usage Example**
 uname -a  # Displays all system info
@@ -73,7 +73,7 @@ uname -a  # Displays all system info
 **Screenshot**
 ![uname command image](screenshots/uname-command.png)
 
-##9.History
+## 9.History
 **Description**:Displays your command history 
 **Usage Example**
 history
@@ -81,10 +81,11 @@ history
 **Screenshot**
 ![history command image](screenshots/history-command.png)
 
-##10.find
+## 10.find
 **Description**;Searches for files and directories.
 **Usage Example**
 find /home -name "file.txt"
+
 **Screenshot**
 ![grep command image](screenshots/find-command.png)
 
